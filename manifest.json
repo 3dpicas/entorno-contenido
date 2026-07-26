@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "secciones": [
+    {
+      "id": "aprender",
+      "titulo": "Aprender",
+      "color": "#2E7D32",
+      "tarjetas": [
+        { "tipo": "guia", "titulo": "Enviar un correo", "guia": "guias/ejemplo-correo.md" }
+      ]
+    },
+    {
+      "id": "prensa",
+      "titulo": "Prensa",
+      "color": "#1565C0",
+      "grupos": [
+        {
+          "titulo": "Nacional",
+          "tarjetas": [
+            { "tipo": "enlace", "titulo": "El País", "url": "https://elpais.com" },
+            { "tipo": "enlace", "titulo": "El Mundo", "url": "https://www.elmundo.es" }
+          ]
+        },
+        {
+          "titulo": "Deportes",
+          "tarjetas": [
+            { "tipo": "enlace", "titulo": "Marca", "url": "https://www.marca.com" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jugar",
+      "titulo": "Jugar",
+      "color": "#E65100",
+      "tarjetas": [
+        { "tipo": "enlace", "titulo": "Solitario", "url": "https://www.solitr.com/es" },
+        { "tipo": "enlace", "titulo": "Tetris", "url": "https://tetris.com/play-tetris" }
+      ]
+    }
+  ]
+}

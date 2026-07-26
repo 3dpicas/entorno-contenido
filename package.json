@@ -1,0 +1,14 @@
+{
+  "name": "entorno-contenido",
+  "version": "1.0.0",
+  "description": "Contenido del Entorno Digital para Papá: manifest, guías e iconos",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "ajv": "^8.20.0"
+  }
+}
