@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "secciones": [
     {
       "id": "aprender",
@@ -35,7 +35,7 @@
       "titulo": "Jugar",
       "color": "#E65100",
       "tarjetas": [
-        { "tipo": "enlace", "titulo": "Solitario", "url": "https://www.solitr.com/es" },
+        { "tipo": "enlace", "titulo": "Solitario", "url": "https://www.solitr.com/" },
         { "tipo": "enlace", "titulo": "Tetris", "url": "https://tetris.com/play-tetris" }
       ]
     }
