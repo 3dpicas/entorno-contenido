@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "secciones": [
     {
       "id": "aprender",
@@ -19,17 +19,39 @@
       "color": "#1565C0",
       "grupos": [
         {
+          "titulo": "Burgos",
+          "tarjetas": [
+            { "tipo": "enlace", "titulo": "Diario de Burgos", "url": "https://www.diariodeburgos.es", "icono": "diariodeburgos.png" },
+            { "tipo": "enlace", "titulo": "El Correo de Burgos", "url": "https://www.elcorreodeburgos.com", "icono": "elcorreodeburgos.png" },
+            { "tipo": "enlace", "titulo": "BURGOSconecta", "url": "https://www.burgosconecta.es", "icono": "burgosconecta.png" }
+          ]
+        },
+        {
           "titulo": "Nacional",
           "tarjetas": [
-            { "tipo": "enlace", "titulo": "El País", "url": "https://elpais.com" },
-            { "tipo": "enlace", "titulo": "El Mundo", "url": "https://www.elmundo.es" },
-            { "tipo": "enlace", "titulo": "ABC", "url": "https://www.abc.es" }
+            { "tipo": "enlace", "titulo": "El País", "url": "https://elpais.com", "icono": "elpais.png" },
+            { "tipo": "enlace", "titulo": "El Mundo", "url": "https://www.elmundo.es", "icono": "elmundo.png" },
+            { "tipo": "enlace", "titulo": "ABC", "url": "https://www.abc.es", "icono": "abc.png" }
+          ]
+        },
+        {
+          "titulo": "Internacional",
+          "tarjetas": [
+            { "tipo": "enlace", "titulo": "BBC Mundo", "url": "https://www.bbc.com/mundo", "icono": "bbc.png" },
+            { "tipo": "enlace", "titulo": "Euronews", "url": "https://es.euronews.com", "icono": "euronews.png" }
           ]
         },
         {
           "titulo": "Deportes",
           "tarjetas": [
-            { "tipo": "enlace", "titulo": "Marca", "url": "https://www.marca.com" }
+            { "tipo": "enlace", "titulo": "Marca", "url": "https://www.marca.com", "icono": "marca.png" },
+            { "tipo": "enlace", "titulo": "AS", "url": "https://as.com", "icono": "as.png" }
+          ]
+        },
+        {
+          "titulo": "Bolsa",
+          "tarjetas": [
+            { "tipo": "enlace", "titulo": "Expansión", "url": "https://www.expansion.com", "icono": "expansion.png" }
           ]
         }
       ]
