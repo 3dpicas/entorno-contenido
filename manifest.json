@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "secciones": [
     {
       "id": "aprender",
@@ -51,7 +51,8 @@
         {
           "titulo": "Bolsa",
           "tarjetas": [
-            { "tipo": "enlace", "titulo": "Expansión", "url": "https://www.expansion.com", "icono": "expansion.png" }
+            { "tipo": "enlace", "titulo": "Expansión", "url": "https://www.expansion.com", "icono": "expansion.png" },
+            { "tipo": "enlace", "titulo": "Cinco Días", "url": "https://cincodias.elpais.com", "icono": "cincodias.png" }
           ]
         }
       ]
@@ -61,8 +62,8 @@
       "titulo": "Jugar",
       "color": "#E65100",
       "tarjetas": [
-        { "tipo": "enlace", "titulo": "Solitario", "url": "https://www.solitr.com/" },
-        { "tipo": "enlace", "titulo": "Tetris", "url": "https://tetris.com/play-tetris" }
+        { "tipo": "enlace", "titulo": "Solitario", "url": "https://www.solitr.com/", "icono": "solitario.png" },
+        { "tipo": "enlace", "titulo": "Tetris", "url": "https://tetris.com/play-tetris", "icono": "tetris.png" }
       ]
     }
   ]

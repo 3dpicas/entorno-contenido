@@ -1,0 +1,12 @@
+<!-- solitr.com no publica favicon: ni el servicio de Google ni /favicon.ico
+     devuelven nada. Este icono es propio. Genera el PNG con:
+       npx sharp-cli -i iconos/solitario.svg -o iconos/solitario.png resize 128 128
+     o el script equivalente del repo de la app. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#1B5E20"/>
+  <g transform="rotate(-12 44 70)">
+    <rect x="18" y="30" width="54" height="76" rx="8" fill="#FFFFFF" stroke="#0D3B10" stroke-width="3"/>
+  </g>
+  <rect x="50" y="24" width="58" height="82" rx="8" fill="#FFFFFF" stroke="#0D3B10" stroke-width="3"/>
+  <path d="M79 92 C79 92 60 78 60 63 C60 54 67 49 74 52 C77 53 78 56 79 58 C80 56 81 53 84 52 C91 49 98 54 98 63 C98 78 79 92 79 92 Z" fill="#C62828"/>
+</svg>
