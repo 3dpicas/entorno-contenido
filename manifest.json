@@ -1,12 +1,16 @@
 {
-  "version": 3,
+  "version": 4,
   "secciones": [
     {
       "id": "aprender",
       "titulo": "Aprender",
       "color": "#2E7D32",
       "tarjetas": [
-        { "tipo": "guia", "titulo": "Enviar un correo", "guia": "guias/ejemplo-correo.md" }
+        { "tipo": "guia", "titulo": "Enviar un correo", "guia": "guias/correo-enviar.md" },
+        { "tipo": "guia", "titulo": "Leer y contestar", "guia": "guias/correo-leer.md" },
+        { "tipo": "guia", "titulo": "Tus archivos en Drive", "guia": "guias/drive-basico.md" },
+        { "tipo": "guia", "titulo": "Crear carpetas", "guia": "guias/carpetas-archivos.md" },
+        { "tipo": "guia", "titulo": "Fotos del móvil al PC", "guia": "guias/fotos-movil-pc.md" }
       ]
     },
     {
