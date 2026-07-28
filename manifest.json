@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "secciones": [
     {
       "id": "aprender",
@@ -18,7 +18,8 @@
           "titulo": "Nacional",
           "tarjetas": [
             { "tipo": "enlace", "titulo": "El País", "url": "https://elpais.com" },
-            { "tipo": "enlace", "titulo": "El Mundo", "url": "https://www.elmundo.es" }
+            { "tipo": "enlace", "titulo": "El Mundo", "url": "https://www.elmundo.es" },
+            { "tipo": "enlace", "titulo": "ABC", "url": "https://www.abc.es" }
           ]
         },
         {
