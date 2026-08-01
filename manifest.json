@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "secciones": [
     {
       "id": "aprender",
@@ -11,6 +11,29 @@
         { "tipo": "guia", "titulo": "Tus archivos en Drive", "guia": "guias/drive-basico.md" },
         { "tipo": "guia", "titulo": "Crear carpetas", "guia": "guias/carpetas-archivos.md" },
         { "tipo": "guia", "titulo": "Fotos del móvil al PC", "guia": "guias/fotos-movil-pc.md" }
+      ]
+    },
+    {
+      "id": "compras",
+      "titulo": "Compras",
+      "color": "#7B1FA2",
+      "grupos": [
+        {
+          "titulo": "Antes de comprar",
+          "tarjetas": [
+            { "tipo": "guia", "titulo": "Comprar con seguridad", "guia": "guias/comprar-seguro.md" }
+          ]
+        },
+        {
+          "titulo": "Tiendas",
+          "tarjetas": [
+            { "tipo": "enlace", "titulo": "Amazon", "url": "https://www.amazon.es/", "icono": "amazon.png" },
+            { "tipo": "enlace", "titulo": "AliExpress", "url": "https://es.aliexpress.com/", "icono": "aliexpress.png" },
+            { "tipo": "enlace", "titulo": "Temu", "url": "https://www.temu.com/es", "icono": "temu.png" },
+            { "tipo": "enlace", "titulo": "El Corte Inglés", "url": "https://www.elcorteingles.es/", "icono": "elcorteingles.png" },
+            { "tipo": "enlace", "titulo": "Carrefour", "url": "https://www.carrefour.es/", "icono": "carrefour.png" }
+          ]
+        }
       ]
     },
     {
