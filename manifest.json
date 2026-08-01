@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "secciones": [
     {
       "id": "aprender",
@@ -85,7 +85,9 @@
       "titulo": "Jugar",
       "color": "#E65100",
       "tarjetas": [
-        { "tipo": "enlace", "titulo": "Solitario", "url": "https://www.solitr.com/", "icono": "solitario.png" },
+        { "tipo": "enlace", "titulo": "Solitario clásico", "url": "https://www.solitr.com/", "icono": "solitario.png" },
+        { "tipo": "enlace", "titulo": "Solitario Spider fácil", "url": "https://www.solitar.io/solitario-spider1", "icono": "solitario.png" },
+        { "tipo": "enlace", "titulo": "Carta blanca", "url": "https://www.solitar.io/carta-blanca", "icono": "solitario.png" },
         { "tipo": "enlace", "titulo": "Tetris", "url": "https://tetris.com/play-tetris", "icono": "tetris.png" }
       ]
     }
